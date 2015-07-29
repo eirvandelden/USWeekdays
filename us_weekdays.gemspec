@@ -5,7 +5,7 @@ require 'us_weekdays/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "us_weekdays"
-  spec.version       = UsWeekdays::VERSION
+  spec.version       = USWeekdays::VERSION
   spec.authors       = ["Etienne van Delden"]
   spec.email         = ["etienne@kabisa.nl"]
 
