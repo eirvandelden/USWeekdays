@@ -6,8 +6,8 @@ require 'us_weekdays/version'
 Gem::Specification.new do |spec|
   spec.name          = "us_weekdays"
   spec.version       = USWeekdays::VERSION
-  spec.authors       = ["Etienne van Delden"]
-  spec.email         = ["etienne@kabisa.nl"]
+  spec.authors       = ["Etienne van Delden-de la Haije"]
+  spec.email         = ["etienne@vandelden.family"]
 
   spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
   spec.description   = %q{TODO: Write a longer description or delete this line.}
